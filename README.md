@@ -27,7 +27,7 @@
 
 
 
-- Pronouns: He/Him 
+- certified coffee drinker ☕
 
 - ⚡ "Dreams come true when you don't sleep."    -Virgil Abloh 
 
