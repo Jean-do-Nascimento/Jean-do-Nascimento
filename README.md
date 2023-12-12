@@ -1,6 +1,6 @@
 ### <h1 align="center">Jean do Nascimento</h1>
 
-<h3> Software Development student </h3>
+<h3> Software Developer 👨‍💻</h3>
 
 - Open to Work!
 
