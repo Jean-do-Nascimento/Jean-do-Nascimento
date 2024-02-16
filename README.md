@@ -10,7 +10,7 @@
  
 <div> <p> 🌱 I’m currently learning:   <img align="center" alt="Mirai-Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"> && <img align="center" alt="Mirai-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> <I>Properties.</I>
 
-📚 I'm also currently studying at @EBAC - 
+📚 Also currently a student @EBAC 
   
 </p> </div>
 
