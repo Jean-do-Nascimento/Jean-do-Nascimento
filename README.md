@@ -32,3 +32,7 @@
 
 - ⚡ "Dreams come true when you don't sleep."    -Virgil Abloh 
 
+
+
+[![Jean's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jean-do-Nascimento&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
