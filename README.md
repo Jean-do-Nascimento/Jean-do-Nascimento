@@ -8,7 +8,7 @@
   <I>Applications.</I> </p> </div>
  
  
-<div> <p> 🌱 Atualmente estou aprendendo: Advanced <img align="center" alt="mirai-python" src="https://techicons.dev/icons/python.svg"> && <img align="center" alt="Mirai-gulp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gulp/gulp-plain.svg"> && <img align="center" alt="Mirai-sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"> <I>Properties.</I>
+<div> <p> 🌱 Atualmente estou aprendendo: Advanced <img align="center" alt="mirai-python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg"> && <img align="center" alt="Mirai-gulp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gulp/gulp-plain.svg"> && <img align="center" alt="Mirai-sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"> <I>Properties.</I>
 
 📚 Also currently a teacher at CNA-Ctrl+Play
   
