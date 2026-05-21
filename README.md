@@ -37,4 +37,4 @@
 #
 ### Linguagens utilizadas
 
-[![Jean's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jean-do-Nascimento)](https://github.com/anuraghazra/github-readme-stats)
+[![Jean's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jean-do-Nascimento&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
